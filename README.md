@@ -20,5 +20,6 @@
 
 ##### Você pode me encontrar nos links abaixo
 
-<a href="https://www.linkedin.com/in/meiryland/"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/></a>
+<a href="https://www.linkedin.com/in/meiryland/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>     [![Currículo](https://img.shields.io/badge/-Curriculo-ff69b4?style=for-the-badge&Color=white&link=https://meucurriculo-meirylandmelo.netlify.app/)](https://meucurriculo-meirylandmelo.netlify.app/)
+
           
